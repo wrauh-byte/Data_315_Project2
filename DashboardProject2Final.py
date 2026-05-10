@@ -1,4 +1,3 @@
-pip install pandas geopandas plotly pyvis streamlit openpyxl
 import pandas as pd
 import geopandas as gpd
 
