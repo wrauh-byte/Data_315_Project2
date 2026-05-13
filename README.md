@@ -1,4 +1,4 @@
-[https://data315project2-4bqglufqwvxruvpcndgbgb.streamlit.app/](url)
+[https://data315project2-4bqglufqwvxruvpcndgbgb.streamlit.app/](url) (copy this link into your search bar)
 
 This project was created to measure basic crime statistics of California and its counties.
 
